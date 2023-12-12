@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+ }
+
+header{
+    background-color: #070347;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 3px solid red;
+
+}
+
+button{
+    background-color: aliceblue;
+    width: 30%;
+    
+}
+
